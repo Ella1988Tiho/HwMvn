@@ -39,17 +39,10 @@
                 </configuration>
 
             </plugin>
-            <plugin>
 
-                <executions>
-                    <execution>
+        </plugins>
 
-                    </execution>
 
-                </executions>
-            </plugin>
-
-            </plugins>
 </build>
 
 
